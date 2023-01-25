@@ -1,6 +1,6 @@
 # pandas-challenge
 
-Please review:  jupyter_code in the PyCitySchool folder for finished assignment
+Please review:  jupyter_code in the PyCitySchools folder for finished assignment
 
 assigment:
 District Summary
